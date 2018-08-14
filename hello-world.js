@@ -1,4 +1,4 @@
 function dizerOla(nome) {
-    console.log("Ol\u00E1 " + nome);
+    console.log(`Olá ${nome}`);
 }
 dizerOla('lucas');
